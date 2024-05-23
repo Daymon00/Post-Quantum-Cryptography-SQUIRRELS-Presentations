@@ -40,11 +40,6 @@ This presentations is on Post-Quantum Cryptography, specifically focusing on the
 - **Reference Implementation**:
   - Benefits of using optimized libraries like GMP and Flint for efficient computations.
 
-## How to Use
-- **View Presentations**: Open the PDF files to view the detailed slides and explanations.
-- **Explore Key Topics**: Review the key points summarized above for a quick overview of each presentation.
-- **Deep Dive**: For a more in-depth understanding, read through the detailed content in each slide and refer to the additional resources provided in the presentations.
-
 ## Authors
 - Daymon Wu
 - Al Fahim
