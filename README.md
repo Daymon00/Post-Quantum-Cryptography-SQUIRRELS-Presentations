@@ -1,7 +1,7 @@
 # Post-Quantum Cryptography: SQUIRRELS
 
 ## Overview
-This presentations is on Post-Quantum Cryptography, specifically focusing on the SQUIRRELS project. The presentations cover various aspects of post-quantum cryptographic methods, key generation, signature schemes, and security.
+This presentations is on Post-Quantum Cryptography, specifically focusing on the SQUIRRELS project. The presentations cover various many of post-quantum cryptographic methods, key generation, signature schemes, and security.
 
 ## Contents
 - **[Presentation 1](https://docs.google.com/presentation/d/1Rc3wMHQLxoHOVLn8zV4t8bWSAp2KTF2OzbZF75Xnmvw/edit?usp=sharing)**:
