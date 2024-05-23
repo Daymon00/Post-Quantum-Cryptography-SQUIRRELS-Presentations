@@ -4,9 +4,9 @@
 This presentations is on Post-Quantum Cryptography, specifically focusing on the SQUIRRELS project. The presentations cover various aspects of post-quantum cryptographic methods, key generation, signature schemes, and security.
 
 ## Contents
-- **[Presentation 1](Post-Quantum-Cryptography-SQUIRRELS-Presentation1.pdf)**:
+- **[Presentation 1](https://docs.google.com/presentation/d/1Rc3wMHQLxoHOVLn8zV4t8bWSAp2KTF2OzbZF75Xnmvw/edit?usp=sharing)**:
 - An introduction to post-quantum cryptography and the SQUIRRELS project, including its design rationale, main mechanisms, advantages, and limitations.
-- **[Presentation 2](Post-Quantum-Cryptography-SQUIRRELS-Presentation2.pdf)**:
+- **[Presentation 2](https://docs.google.com/presentation/d/1I93cFZmGN8IAqyRpXHhB6CUvyy0K_WbeTXvlWAbO8jQ/edit?usp=sharing)**:
 - A detailed discussion on GGH to GPV, co-cyclic lattices, key generation computations, and hybridizing attacks for sparse secrets.
 
 ## Key Points
